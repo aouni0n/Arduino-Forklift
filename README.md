@@ -104,7 +104,7 @@ Movement and lifting durations are configured in the Arduino sketch and can be a
 - `OUT1` and `OUT2`: Motor A
 - `OUT3` and `OUT4`: Motor B
 
-![Arduino Forklift Wiring Diagram](images/wiring.png)
+![Arduino Forklift Wiring Diagram](circuit_image.png)
 
 For a four-wheel-drive chassis, the two motors on each side can be connected in parallel to the corresponding motor output, provided the driver's current limits are respected.
 
