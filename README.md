@@ -1,10 +1,10 @@
-# 🚜 Arduino Forklift — Bluetooth Controlled 4WD Robot
+# 🚜 Arduino Forklift — Bluetooth Controlled 2WD Robot
 
-The **Arduino Forklift** is a custom-built, four-wheel-drive robotic vehicle with a motorized lifting mechanism, controlled wirelessly through Bluetooth. Built using an **Arduino, L298N motor driver, and a 2-channel relay module**, the project combines mobile robotics, motor control, and mechanical automation into a single embedded system.
+The **Arduino Forklift** is a custom-built, two-wheel-drive robotic vehicle with a motorized lifting mechanism, controlled wirelessly through Bluetooth. Built using an **Arduino, L298N motor driver, and a 2-channel relay module**, the project combines mobile robotics, motor control, and mechanical automation into a single embedded system.
 
 The robot supports forward and backward movement, left and right turns, and independent forklift lifting and lowering through simple serial commands.
 
-Originally developed as a hands-on robotics project, it demonstrates practical applications of **embedded systems, electronics, motor control, and electromechanical engineering**.
+Originally developed as a hands-on robotics project for highschoolers, it demonstrates practical applications of **embedded systems, electronics, motor control, and electromechanical engineering**.
 
 ---
 
@@ -12,7 +12,7 @@ Originally developed as a hands-on robotics project, it demonstrates practical a
 
 ## 🚜 The forklift combines:
 
-- Four-wheel-drive mobility
+- two-wheel-drive mobility
 - Bluetooth wireless control
 - Dual DC motor control through an L298N driver
 - Relay-controlled lifting mechanism
@@ -75,10 +75,9 @@ Movement and lifting durations are configured in the Arduino sketch and can be a
 |---|---:|
 | Arduino Uno / compatible board | 1 |
 | L298N dual H-bridge motor driver | 1 |
-| DC geared drive motors | 4 |
+| DC geared drive motors | 3 |
 | Bluetooth module (HC-05 / HC-06) | 1 |
 | 2-channel relay module | 1 |
-| DC motor for the lifting pulley | 1 |
 | Forklift chassis and lifting mechanism | 1 |
 | Battery / suitable motor power supply | 1 |
 | Jumper wires | Multiple |
@@ -250,6 +249,10 @@ This project demonstrates practical experience with:
 
 - GitHub: https://github.com/aouni0n
 - Portfolio: https://aouni0n.github.io/
+
+**Endereyes01**
+- GitHub: https://github.com/endereyes01
+- Portfolio: https://endereyes01.github.io/
 
 ---
 
