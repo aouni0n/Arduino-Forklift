@@ -154,7 +154,7 @@ The two relays switch the lifting motor's direction. The relay contacts must be 
 
 
 
-![Forklift image](image.png)
+![Forklift image](3d_model.jpg)
 
 
 
