@@ -143,9 +143,16 @@ The two relays switch the lifting motor's direction. The relay contacts must be 
 - Avoid powering high-current motors directly from the Arduino's 5V pin.
 
 
-## 5. Forklift Diagram
+## 5. Forklift Wiring Diagram
 
 ![Arduino Forklift Wiring Diagram](circuit_image.png)
+
+
+## 6. Pully and Fork Diagram
+
+![Forklift Diagram](pully.png)
+
+
 
 ---
 
